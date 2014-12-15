@@ -1,4 +1,4 @@
 name: Jekyll Test
-markdown: redcarpet
-pygments: true
+safe: true
+lsi: false
 baseurl: /test
