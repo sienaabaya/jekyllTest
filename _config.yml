@@ -1,4 +1,4 @@
 name: Jekyll Test
 safe: true
 lsi: false
-baseurl: /test
+baseurl: /jekyllTest
